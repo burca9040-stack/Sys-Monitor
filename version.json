@@ -1,6 +1,6 @@
 {
   "latest_version_code": 2,
   "latest_version_name": "1.1.0",
-  "download_url": "https://raw.githubusercontent.com/burca9040-stack/Sys-Monitor/main/test.apk",
-  "release_notes": "Тестовое обновление: проверка диалогового окна и загрузки."
+  "download_url": "https://github.com/burca9040-stack/Sys-Monitor/releases/download/v1.1.0/app-release.apk",
+  "release_notes": "• Performance improvements\n• Bug fixes and UI optimizations"
 }
