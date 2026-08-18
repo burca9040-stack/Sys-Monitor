@@ -1,7 +1,13 @@
 {
   "latest_version_code": 2,
   "latest_version_name": "1.1.0",
-  "download_url": "https://raw.githubusercontent.com/burca9040-stack/Sys-Monitor/main/test.apk",
-  "release_notes": "Тестовое обновление: проверка диалогового окна и загрузки."
+  "download_url": "https://github.com/burca9040-stack/Sys-Monitor/releases/download/v1.1.0/app-release.apk",
+  "release_notes": {
+    "en": "• Fixed memory leaks\n• Added new themes\n• UI performance improvements",
+    "ru": "• Исправлены утечки памяти\n• Добавлены новые темы\n• Улучшена плавность интерфейса",
+    "ro": "• S-au rezolvat scurgerile de memorie\n• S-au adăugat teme noi\n• Performanță îmbunătățită a interfeței",
+    "uk": "• Виправлено витоки пам'яті\n• Додано нові теми\n• Покращено плавність інтерфейсу",
+    "zh": "• 修复内存泄漏\n• 添加新主题\n• 提升界面流畅度"
+  }
 }
 
